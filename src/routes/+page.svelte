@@ -58,7 +58,7 @@
 	:global(body) {
 		margin: 0;
 		font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-		background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('background-blurred.jpg');
+		background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), url('/background-blurred.jpg');
 		background-size: cover;
 		color: whitesmoke;
 	}
