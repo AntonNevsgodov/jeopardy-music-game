@@ -75,6 +75,8 @@
 		line-height: 2em;
 		font-size: 5vh;
 		cursor: pointer;
+		outline: none;
+		border: none;
 	}
 
 	button > div:last-child {

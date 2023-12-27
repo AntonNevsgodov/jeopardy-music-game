@@ -32,7 +32,9 @@
 		justify-content: center;
 		align-items: center;
 		padding: 5%;
+		outline: none;
 		cursor: pointer;
+		border: none;
 	}
 	img {
 		width: 15%;
