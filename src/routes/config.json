@@ -726,13 +726,13 @@
 				"categoryName": "Эмодзи",
 				"songs": [
 					{
-						"filename": "zime.mp3",
+						"filename": "zima.mp3",
 						"artist": "Эдуард Хиль",
 						"name": "Зима",
 						"category": "Эмодзи (новый год)",
 						"emojisPath": "/эмодзи/зимние/потолок-ледяной",
 						"emojisN": 4,
-						"points": 228,
+						"points": 100,
 						"questionTimings": { "start": 0, "end": 0 },
 						"answerTimings": { "start": 146.7, "end": 155.3 }
 					},
@@ -741,7 +741,7 @@
 						"artist": "Аида Ведищева",
 						"name": "Колыбельная медведицы",
 						"category": "Эмодзи (новый год)",
-						"points": 228,
+						"points": 200,
 						"emojisPath": "/эмодзи/зимние/умка",
 						"emojisN": 3,
 						"questionTimings": { "start": 0, "end": 0 },
@@ -754,7 +754,7 @@
 						"category": "Эмодзи (новый год)",
 						"emojisPath": "/эмодзи/зимние/тает-лед",
 						"emojisN": 4,
-						"points": 228,
+						"points": 300,
 						"questionTimings": { "start": 0, "end": 0 },
 						"answerTimings": { "start": 35.7, "end": 51.2 }
 					},
@@ -765,7 +765,7 @@
 						"category": "Эмодзи (новый год)",
 						"emojisPath": "/эмодзи/зимние/зима-холода",
 						"emojisN": 7,
-						"points": 228,
+						"points": 400,
 						"questionTimings": { "start": 0, "end": 0 },
 						"answerTimings": { "start": 75.5, "end": 89.8 }
 					},
@@ -776,7 +776,7 @@
 						"emojisPath": "/эмодзи/зимние/снег-идет",
 						"emojisN": 7,
 						"category": "Эмодзи (новый год)",
-						"points": 228,
+						"points": 500,
 						"questionTimings": { "start": 0, "end": 0 },
 						"answerTimings": { "start": 54, "end": 68.9 }
 					}
