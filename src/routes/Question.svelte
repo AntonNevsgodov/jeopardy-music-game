@@ -61,7 +61,7 @@
 	}
 
 	onMount(async () => {
-		audio = new Audio(question.filename);
+		audio = new Audio(`/${question.filename}`);
 
 		await new Promise((res) => {
 			audio?.addEventListener('loadeddata', res);
