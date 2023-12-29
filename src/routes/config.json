@@ -6,7 +6,7 @@
 				"categoryName": "Ретро",
 				"songs": [
 					{
-						"filename": "Bee Gees-Stayin Alive-kissvk.com.mp3",
+						"filename": "alive.mp3",
 						"artist": "Bee Gees",
 						"name": "Stayin Alive",
 						"category": "Ретро",
@@ -15,7 +15,7 @@
 						"answerTimings": { "start": 32.5, "end": 57 }
 					},
 					{
-						"filename": "AC-DC-TNT-kissvk.com.mp3",
+						"filename": "tnt.mp3",
 						"artist": "AC-DC",
 						"name": "TNT",
 						"category": "Ретро",
@@ -24,7 +24,7 @@
 						"answerTimings": { "start": 54.5, "end": 68 }
 					},
 					{
-						"filename": "Boney M.-Sunny-kissvk.com.mp3",
+						"filename": "sunny.mp3",
 						"artist": "Boney M.",
 						"name": "Sunny",
 						"category": "Ретро",
@@ -33,7 +33,7 @@
 						"answerTimings": { "start": 70.5, "end": 86.5 }
 					},
 					{
-						"filename": "Queen-Another One Bites The Dust-kissvk.com.mp3",
+						"filename": "dust.mp3",
 						"artist": "Queen",
 						"name": "Another One Bites The Dust",
 						"category": "Ретро",
@@ -42,7 +42,7 @@
 						"answerTimings": { "start": 66, "end": 83.5 }
 					},
 					{
-						"filename": "ABBA-Gimme- Gimme- Gimme- -A Man After Midnight--kissvk.com.mp3",
+						"filename": "gimme.mp3",
 						"artist": "ABBA",
 						"name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
 						"category": "Ретро",
@@ -56,7 +56,7 @@
 				"categoryName": "Секс, наркотики, рок-н-ролл",
 				"songs": [
 					{
-						"filename": "Каста-Ды-ды-дым-kissvk.com.mp3",
+						"filename": "dididim.mp3",
 						"artist": "Каста",
 						"name": "Ды-ды-дым",
 						"category": "Секс, наркотики, рок-н-ролл",
@@ -65,7 +65,7 @@
 						"answerTimings": { "start": 112, "end": 121.5 }
 					},
 					{
-						"filename": "Би-2 feat. Юлия Чичерина-Мой рок-н-ролл-kissvk.com.mp3",
+						"filename": "moirocknroll.mp3",
 						"artist": "Би-2 feat. Юлия Чичерина",
 						"name": "Мой рок-н-ролл",
 						"category": "Секс, наркотики, рок-н-ролл",
@@ -74,7 +74,7 @@
 						"answerTimings": { "start": 328.5, "end": 342.5 }
 					},
 					{
-						"filename": "Kolos- Brothers- Бібліотека -muzonov.net--kissvk.com.mp3",
+						"filename": "biblioteka.mp3",
 						"artist": "Kolos & Brothers",
 						"name": "Бібліотека",
 						"category": "Секс, наркотики, рок-н-ролл",
@@ -83,7 +83,7 @@
 						"answerTimings": { "start": 38.5, "end": 53.2 }
 					},
 					{
-						"filename": "Сектор Газа-Лирика-kissvk.com.mp3",
+						"filename": "lirika.mp3",
 						"artist": "Сектор Газа",
 						"name": "Лирика",
 						"category": "Секс, наркотики, рок-н-ролл",
@@ -92,7 +92,7 @@
 						"answerTimings": { "start": 102.8, "end": 114.2 }
 					},
 					{
-						"filename": "Сплин-Новые Люди -Люди ночами делают новых людей--kissvk.com.mp3",
+						"filename": "novieludi.mp3",
 						"artist": "Сплин",
 						"name": "Новые Люди",
 						"category": "Секс, наркотики, рок-н-ролл",
@@ -106,7 +106,7 @@
 				"categoryName": "Алкоголь",
 				"songs": [
 					{
-						"filename": "Звери-Напитки покрепче-kissvk.com.mp3",
+						"filename": "pokrepche.mp3",
 						"artist": "Звери",
 						"name": "Напитки покрепче",
 						"category": "Алкоголь",
@@ -115,7 +115,7 @@
 						"answerTimings": { "start": 56, "end": 69.4 }
 					},
 					{
-						"filename": "Григорий Лепс-Рюмка водки на столе-kissvk.com.mp3",
+						"filename": "vodka.mp3",
 						"artist": "Григорий Лепс",
 						"name": "Рюмка водки на столе",
 						"category": "Алкоголь",
@@ -124,7 +124,7 @@
 						"answerTimings": { "start": 81.6, "end": 108.2 }
 					},
 					{
-						"filename": "Элджей- FEDUK-Розовое вино-kissvk.com.mp3",
+						"filename": "vino.mp3",
 						"artist": "Элджей & FEDUK",
 						"name": "Розовое вино",
 						"category": "Алкоголь",
@@ -133,7 +133,7 @@
 						"answerTimings": { "start": 27, "end": 43.4 }
 					},
 					{
-						"filename": "Ленинград-В Питере – пить-kissvk.com.mp3",
+						"filename": "piter.mp3",
 						"artist": "Ленинград",
 						"name": "В Питере – пить",
 						"category": "Алкоголь",
@@ -142,7 +142,7 @@
 						"answerTimings": { "start": 42, "end": 65.5 }
 					},
 					{
-						"filename": "Наталья Ветлицкая-Глаза цвета виски-kissvk.com.mp3",
+						"filename": "viski.mp3",
 						"artist": "Наталья Ветлицкая",
 						"name": "Глаза цвета виски",
 						"category": "Алкоголь",
@@ -156,7 +156,7 @@
 				"categoryName": "Трэш",
 				"songs": [
 					{
-						"filename": "Витас-7-й элемент -Седьмой элемент--kissvk.com.mp3",
+						"filename": "element7.mp3",
 						"artist": "Витас",
 						"name": "7-й элемент",
 						"category": "Трэш",
@@ -165,7 +165,7 @@
 						"answerTimings": { "start": 44.4, "end": 59.2 }
 					},
 					{
-						"filename": "2rbina 2rista-Листики-kissvk.com.mp3",
+						"filename": "listiki.mp3",
 						"artist": "2rbina 2rista",
 						"name": "Листики",
 						"category": "Трэш",
@@ -174,7 +174,7 @@
 						"answerTimings": { "start": 33.9, "end": 45.2 }
 					},
 					{
-						"filename": "Валерий Леонтьев-Кончайте девочки-kissvk.com.mp3",
+						"filename": "konchaite.mp3",
 						"artist": "Валерий Леонтьев",
 						"name": "Кончайте девочки",
 						"category": "Трэш",
@@ -183,7 +183,7 @@
 						"answerTimings": { "start": 22.5, "end": 39 }
 					},
 					{
-						"filename": "Электрослабость-Старый БДСМщик Терентий -Full--kissvk.com.mp3",
+						"filename": "bdsm.mp3",
 						"artist": "Электрослабость",
 						"name": "Старый БДСМщик Терентий",
 						"category": "Трэш",
@@ -192,7 +192,7 @@
 						"answerTimings": { "start": 60, "end": 75.5 }
 					},
 					{
-						"filename": "Хлеб-Камерун-kissvk.com.mp3",
+						"filename": "kamerun.mp3",
 						"artist": "Хлеб",
 						"name": "Камерун",
 						"category": "Трэш",
@@ -206,7 +206,7 @@
 				"categoryName": "Эмодзи",
 				"songs": [
 					{
-						"filename": "Натали-Ветер с моря дул-kissvk.com.mp3",
+						"filename": "vetersmorya.mp3",
 						"artist": "Натали",
 						"name": "Ветер с моря дул",
 						"category": "Эмодзи (разное)",
@@ -217,7 +217,7 @@
 						"answerTimings": { "start": 6.7, "end": 13.7 }
 					},
 					{
-						"filename": "Ленинград-Экспонат-kissvk.com.mp3",
+						"filename": "eksponat.mp3",
 						"artist": "Ленинград",
 						"name": "Экспонат",
 						"category": "Эмодзи (разное)",
@@ -228,7 +228,7 @@
 						"answerTimings": { "start": 55.5, "end": 69.2 }
 					},
 					{
-						"filename": "Мираж-Музыка нас связала-kissvk.com.mp3",
+						"filename": "muzikanas.mp3",
 						"artist": "Мираж",
 						"name": "Музыка нас связала",
 						"category": "Эмодзи (разное)",
@@ -239,7 +239,7 @@
 						"answerTimings": { "start": 51, "end": 65.2 }
 					},
 					{
-						"filename": "Николай Басков-Натуральный блондин-kissvk.com.mp3",
+						"filename": "blonde.mp3",
 						"artist": "Николай Басков",
 						"name": "Натуральный блондин",
 						"category": "Эмодзи (разное)",
@@ -250,7 +250,7 @@
 						"answerTimings": { "start": 45.6, "end": 55.8 }
 					},
 					{
-						"filename": "Чай Вдвоём-День рожденья-kissvk.com.mp3",
+						"filename": "pogasila.mp3",
 						"artist": "Чай Вдвоём",
 						"name": "День рожденья",
 						"category": "Эмодзи (разное)",
@@ -271,7 +271,7 @@
 				"categoryName": "ТВ-передачи",
 				"songs": [
 					{
-						"filename": "OST-В мире животных-kissvk.com.mp3",
+						"filename": "zhivotnih.mp3",
 						"artist": "В мире животных",
 						"name": "",
 						"category": "ТВ-передачи",
@@ -280,7 +280,7 @@
 						"answerTimings": { "start": 14.6, "end": 24.4 }
 					},
 					{
-						"filename": "Заставка-Необъяснимо но факт-kissvk.com.mp3",
+						"filename": "fact.mp3",
 						"artist": "Необъяснимо но факт",
 						"name": "",
 						"category": "ТВ-передачи",
@@ -289,7 +289,7 @@
 						"answerTimings": { "start": 9.3, "end": 18 }
 					},
 					{
-						"filename": "Александр Иванов-Я всегда с собой беру видеокамеру-kissvk.com.mp3",
+						"filename": "videokamera.mp3",
 						"artist": "Сам себе режиссёр",
 						"name": "",
 						"category": "ТВ-передачи",
@@ -298,7 +298,7 @@
 						"answerTimings": { "start": 8.6, "end": 17.7 }
 					},
 					{
-						"filename": "Криминальная Россия -музыка-kissvk.com.mp3",
+						"filename": "kriminal.mp3",
 						"artist": "Криминальная Россия",
 						"name": "",
 						"category": "ТВ-передачи",
@@ -307,7 +307,7 @@
 						"answerTimings": { "start": 20, "end": 28.5 }
 					},
 					{
-						"filename": "Би-2-Последний герой -остаться в живых--kissvk.com.mp3",
+						"filename": "geroi.mp3",
 						"artist": "Последний герой",
 						"name": "",
 						"category": "ТВ-передачи",
@@ -321,7 +321,7 @@
 				"categoryName": "Мультсериалы",
 				"songs": [
 					{
-						"filename": "том и джерри-муз из мульта-kissvk.com.mp3",
+						"filename": "tomijerry.mp3",
 						"artist": "Том и Джерри",
 						"name": "",
 						"category": "Мультсериалы",
@@ -330,7 +330,7 @@
 						"answerTimings": { "start": 8, "end": 16.6 }
 					},
 					{
-						"filename": "Из м-ф-чип и дэйл----kissvk.com.mp3",
+						"filename": "burunduki.mp3",
 						"artist": "Чип и Дэйл",
 						"name": "",
 						"category": "Мультсериалы",
@@ -339,7 +339,7 @@
 						"answerTimings": { "start": 34.5, "end": 48.4 }
 					},
 					{
-						"filename": "Крутые бобры-бобры---kissvk.com.mp3",
+						"filename": "bobri.mp3",
 						"artist": "Крутые бобры",
 						"name": "",
 						"category": "Мультсериалы",
@@ -348,7 +348,7 @@
 						"answerTimings": { "start": 17.4, "end": 26 }
 					},
 					{
-						"filename": "Неизвестен-MIB мульт OST-kissvk.com.mp3",
+						"filename": "mib.mp3",
 						"artist": "Люди в чёрном",
 						"name": "",
 						"category": "Мультсериалы",
@@ -357,7 +357,7 @@
 						"answerTimings": { "start": 12.6, "end": 22.5 }
 					},
 					{
-						"filename": "Тотали Спайс -полная-дослушайте до конца начало не узнайте---Песня из заставки-kissvk.com.mp3",
+						"filename": "spice.mp3",
 						"artist": "Totally Spies",
 						"name": "",
 						"category": "Мультсериалы",
@@ -371,7 +371,7 @@
 				"categoryName": "Аниме",
 				"songs": [
 					{
-						"filename": "Pokemon-заставка-kissvk.com.mp3",
+						"filename": "pokemon.mp3",
 						"artist": "Покемоны",
 						"name": "",
 						"category": "Аниме",
@@ -380,7 +380,7 @@
 						"answerTimings": { "start": 32.8, "end": 42.5 }
 					},
 					{
-						"filename": "Evangelion-заставка аниме -Evangelion--kissvk.com.mp3",
+						"filename": "evangelion.mp3",
 						"artist": "Евангелион",
 						"name": "",
 						"category": "Аниме",
@@ -389,7 +389,7 @@
 						"answerTimings": { "start": 66.5, "end": 81.4 }
 					},
 					{
-						"filename": "JoJo-s Bizzarre Adventure -Opening 1 Full『_Sono Chi no Sadame_』-kissvk.com.mp3",
+						"filename": "jojo.mp3",
 						"artist": "JoJo",
 						"name": "",
 						"category": "Аниме",
@@ -398,7 +398,7 @@
 						"answerTimings": { "start": 46.5, "end": 59.8 }
 					},
 					{
-						"filename": "Linked Horizon -Атака титанов--Guren no Yumiya-kissvk.com.mp3",
+						"filename": "titansattack.mp3",
 						"artist": "Атака титанов",
 						"name": "",
 						"category": "Аниме",
@@ -407,7 +407,7 @@
 						"answerTimings": { "start": 15.4, "end": 25 }
 					},
 					{
-						"filename": "Тетрадь смерти-Death Note-1 Опенинг-1 Opening-kissvk.com.mp3",
+						"filename": "deathnote.mp3",
 						"artist": "Тетрадь смерти",
 						"name": "",
 						"category": "Аниме",
@@ -421,7 +421,7 @@
 				"categoryName": "Мультсериалы 16+",
 				"songs": [
 					{
-						"filename": "Imagine Dragons- Arcane- League Of Legends-Enemy-kissvk.com.mp3",
+						"filename": "arcane.mp3",
 						"artist": "Arcane - League Of Legends",
 						"name": "",
 						"category": "Мультсериалы 16+",
@@ -430,7 +430,7 @@
 						"answerTimings": { "start": 32, "end": 51 }
 					},
 					{
-						"filename": "Симпсоны-Заставка-kissvk.com.mp3",
+						"filename": "simpsons.mp3",
 						"artist": "Симпсоны",
 						"name": "",
 						"category": "Мультсериалы 16+",
@@ -439,7 +439,7 @@
 						"answerTimings": { "start": 0, "end": 9.6 }
 					},
 					{
-						"filename": "Заставка-Южный парк-kissvk.com.mp3",
+						"filename": "southpark.mp3",
 						"artist": "Южный парк",
 						"name": "",
 						"category": "Мультсериалы 16+",
@@ -448,7 +448,7 @@
 						"answerTimings": { "start": 10, "end": 16.8 }
 					},
 					{
-						"filename": "Футурама-заставка-kissvk.com.mp3",
+						"filename": "futurama.mp3",
 						"artist": "Футурама",
 						"name": "",
 						"category": "Мультсериалы 16+",
@@ -457,7 +457,7 @@
 						"answerTimings": { "start": 22, "end": 30.5 }
 					},
 					{
-						"filename": "Заставка-Рик и Морти-kissvk.com.mp3",
+						"filename": "rickandmorty.mp3",
 						"artist": "Рик и Морти",
 						"name": "",
 						"category": "Мультсериалы 16+",
@@ -471,7 +471,7 @@
 				"categoryName": "Сериалы",
 				"songs": [
 					{
-						"filename": "Игра престолов-Заставка-kissvk.com.mp3",
+						"filename": "thrones.mp3",
 						"artist": "Игра престолов",
 						"name": "",
 						"category": "Сериалы",
@@ -480,7 +480,7 @@
 						"answerTimings": { "start": 9, "end": 22.6 }
 					},
 					{
-						"filename": "OST  Игра в кальмара-Без названия-kissvk.com.mp3",
+						"filename": "kalmar.mp3",
 						"artist": "Игра в кальмара",
 						"name": "",
 						"category": "Сериалы",
@@ -489,7 +489,7 @@
 						"answerTimings": { "start": 8.5, "end": 16.5 }
 					},
 					{
-						"filename": "Cinematic Legacy-Stranger Things Opening Theme -From -Stranger Things---kissvk.com.mp3",
+						"filename": "strange.mp3",
 						"artist": "Очень странные дела",
 						"name": "",
 						"category": "Сериалы",
@@ -498,7 +498,7 @@
 						"answerTimings": { "start": 14.3, "end": 22.6 }
 					},
 					{
-						"filename": "ВО ВСЕ ТЯЖКИЕ -OST--Breaking Bad Main Title Theme -Extended--kissvk.com.mp3",
+						"filename": "bad.mp3",
 						"artist": "Во все тяжкие",
 						"name": "",
 						"category": "Сериалы",
@@ -507,7 +507,7 @@
 						"answerTimings": { "start": 15, "end": 26 }
 					},
 					{
-						"filename": "Soundtrack Specialists-The Walking Dead-kissvk.com.mp3",
+						"filename": "dead.mp3",
 						"artist": "Ходячие мертвецы",
 						"name": "",
 						"category": "Сериалы",
@@ -526,7 +526,7 @@
 				"categoryName": "Русские",
 				"songs": [
 					{
-						"filename": "Дискотека Авария-Новогодняя-kissvk.com.mp3",
+						"filename": "avaria.mp3",
 						"artist": "Дискотека Авария",
 						"name": "Новогодняя",
 						"category": "Русские",
@@ -535,7 +535,7 @@
 						"answerTimings": { "start": 30.25, "end": 44 }
 					},
 					{
-						"filename": "Здравствуй песня-Синий иней.mp3",
+						"filename": "blueice.mp3",
 						"artist": "Здравствуй песня",
 						"name": "Синий иней",
 						"category": "Русские",
@@ -544,7 +544,7 @@
 						"answerTimings": { "start": 47, "end": 58.7 }
 					},
 					{
-						"filename": "_Стекловата-_Новый год-kissvk.com.mp3",
+						"filename": "steklovata.mp3",
 						"artist": "Стекловата",
 						"name": "Новый год",
 						"category": "Русские",
@@ -553,7 +553,7 @@
 						"answerTimings": { "start": 55, "end": 69.7 }
 					},
 					{
-						"filename": "Лариса Долина-Три белых коня-kissvk.com.mp3",
+						"filename": "koni.mp3",
 						"artist": "Лариса Долина",
 						"name": "Три белых коня",
 						"category": "Русские",
@@ -562,7 +562,7 @@
 						"answerTimings": { "start": 36, "end": 46.9 }
 					},
 					{
-						"filename": "Нина Бродская-Звенит январская вьюга-kissvk.com.mp3",
+						"filename": "viuga.mp3",
 						"artist": "Нина Бродская",
 						"name": "Звенит январская вьюга",
 						"category": "Русские",
@@ -576,7 +576,7 @@
 				"categoryName": "Английские",
 				"songs": [
 					{
-						"filename": "Wham--Last Christmas-kissvk.com.mp3",
+						"filename": "wham.mp3",
 						"artist": "Wham",
 						"name": "Last Christmas",
 						"category": "Английские",
@@ -585,7 +585,7 @@
 						"answerTimings": { "start": 18.5, "end": 35.1 }
 					},
 					{
-						"filename": "Dean Martin-Let It Snow- Let It Snow- Let It Snow--kissvk.com.mp3",
+						"filename": "letitsnow.mp3",
 						"artist": "Dean Martin",
 						"name": "Let It Snow",
 						"category": "Английские",
@@ -594,7 +594,7 @@
 						"answerTimings": { "start": 7.4, "end": 20.65 }
 					},
 					{
-						"filename": "Bobby Helms-Jingle Bell Rock-kissvk.com.mp3",
+						"filename": "jbrock.mp3",
 						"artist": "Bobby Helms",
 						"name": "Jingle Bell Rock",
 						"category": "Английские",
@@ -603,7 +603,7 @@
 						"answerTimings": { "start": 8.2, "end": 23.5 }
 					},
 					{
-						"filename": "ABBA-Happy New Year-kissvk.com.mp3",
+						"filename": "happynewyear.mp3",
 						"artist": "ABBA",
 						"name": "Happy New Year",
 						"category": "Английские",
@@ -612,7 +612,7 @@
 						"answerTimings": { "start": 45, "end": 60.9 }
 					},
 					{
-						"filename": "Vanessa Neigert-Rocking Around The Christmas Tree-kissvk.com.mp3",
+						"filename": "around.mp3",
 						"artist": "Vanessa Neigert",
 						"name": "Rocking Around The Christmas Tree",
 						"category": "Английские",
@@ -626,7 +626,7 @@
 				"categoryName": "Мультфильмы",
 				"songs": [
 					{
-						"filename": "Песенка Ну Погоди--Новый Год-kissvk.com 14.59.49.mp3",
+						"filename": "volk.mp3",
 						"artist": "Ну Погоди!",
 						"name": "",
 						"category": "Мультфильмы",
@@ -635,7 +635,7 @@
 						"answerTimings": { "start": 22, "end": 35.2 }
 					},
 					{
-						"filename": "Валентина Толкунова-Кабы не было зимы-kissvk.com 15.05.43.mp3",
+						"filename": "nebilozimi.mp3",
 						"artist": "Зима в Простоквашино",
 						"name": "",
 						"category": "Мультфильмы",
@@ -644,7 +644,7 @@
 						"answerTimings": { "start": 24, "end": 36.5 }
 					},
 					{
-						"filename": "Холодное сердце-let it go -Отпусти и забудь--kissvk.com 15.03.06.mp3",
+						"filename": "otpusti.mp3",
 						"artist": "Холодное сердце",
 						"name": "",
 						"category": "Мультфильмы",
@@ -653,7 +653,7 @@
 						"answerTimings": { "start": 121.6, "end": 136 }
 					},
 					{
-						"filename": "Tyler- The Creator-You-re A Mean One- Mr. Grinch-kissvk.com.mp3",
+						"filename": "grinch.mp3",
 						"artist": "Гринч",
 						"name": "",
 						"category": "Мультфильмы",
@@ -662,7 +662,7 @@
 						"answerTimings": { "start": 71, "end": 83 }
 					},
 					{
-						"filename": "Новый Год-Песня из Смешариков-kissvk.com.mp3",
+						"filename": "shariki.mp3",
 						"artist": "Смешарики",
 						"name": "",
 						"category": "Мультфильмы",
@@ -676,7 +676,7 @@
 				"categoryName": "Frosty names",
 				"songs": [
 					{
-						"filename": "Vanilla Ice-Ice Ice Baby-kissvk.com.mp3",
+						"filename": "iceice.mp3",
 						"artist": "Vanilla Ice",
 						"name": "Ice Ice Baby",
 						"category": "Frosty names",
@@ -685,7 +685,7 @@
 						"answerTimings": { "start": 59.2, "end": 70.2 }
 					},
 					{
-						"filename": "Red Hot Chili Peppers-Snow -Hey Oh--kissvk.com.mp3",
+						"filename": "rhcpsnow.mp3",
 						"artist": "Red Hot Chili Peppers",
 						"name": "Snow - Hey Oh",
 						"category": "Frosty names",
@@ -694,7 +694,7 @@
 						"answerTimings": { "start": 33, "end": 60 }
 					},
 					{
-						"filename": "Arctic Monkeys-Who The Fuck Are Arctic Monkeys--kissvk.com.mp3",
+						"filename": "monkeys.mp3",
 						"artist": "Arctic Monkeys",
 						"name": "Who The Fuck Are Arctic Monkeys?",
 						"category": "Frosty names",
@@ -703,7 +703,7 @@
 						"answerTimings": { "start": 100, "end": 114.6 }
 					},
 					{
-						"filename": "Cage The Elephant-Cold Cold Cold-kissvk.com.mp3",
+						"filename": "cold.mp3",
 						"artist": "Cage The Elephant",
 						"name": "Cold Cold Cold",
 						"category": "Frosty names",
@@ -712,7 +712,7 @@
 						"answerTimings": { "start": 57, "end": 73.7 }
 					},
 					{
-						"filename": "The Avener- Kadebostany-Castle In The Snow-kissvk.com.mp3",
+						"filename": "castle.mp3",
 						"artist": "The Avener & Kadebostany",
 						"name": "Castle In The Snow",
 						"category": "Frosty names",
@@ -726,7 +726,7 @@
 				"categoryName": "Эмодзи",
 				"songs": [
 					{
-						"filename": "Эдуард Хиль-Зима-kissvk.com.mp3",
+						"filename": "zime.mp3",
 						"artist": "Эдуард Хиль",
 						"name": "Зима",
 						"category": "Эмодзи (новый год)",
@@ -737,7 +737,7 @@
 						"answerTimings": { "start": 146.7, "end": 155.3 }
 					},
 					{
-						"filename": "Аида Ведищева-Колыбельная медведицы-kissvk.com.mp3",
+						"filename": "medvedi.mp3",
 						"artist": "Аида Ведищева",
 						"name": "Колыбельная медведицы",
 						"category": "Эмодзи (новый год)",
@@ -748,7 +748,7 @@
 						"answerTimings": { "start": 3.5, "end": 19.4 }
 					},
 					{
-						"filename": "Грибы-Тает лёд-kissvk.com.mp3",
+						"filename": "gribi.mp3",
 						"artist": "Грибы",
 						"name": "Тает лёд",
 						"category": "Эмодзи (новый год)",
@@ -759,7 +759,7 @@
 						"answerTimings": { "start": 35.7, "end": 51.2 }
 					},
 					{
-						"filename": "Андрей Губин-Зима-холода-kissvk.com.mp3",
+						"filename": "holoda.mp3",
 						"artist": "Андрей Губин",
 						"name": "Зима – холода",
 						"category": "Эмодзи (новый год)",
@@ -770,7 +770,7 @@
 						"answerTimings": { "start": 75.5, "end": 89.8 }
 					},
 					{
-						"filename": "Глюк-oZa-Снег идет-kissvk.com.mp3",
+						"filename": "sneg.mp3",
 						"artist": "Глюк'oZa",
 						"name": "Снег идет",
 						"emojisPath": "/эмодзи/зимние/снег-идет",
