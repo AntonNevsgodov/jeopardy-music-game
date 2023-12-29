@@ -61,6 +61,7 @@
 	}
 
 	onMount(async () => {
+		console.log('qwe')
 		audio = new Audio(`/${question.filename}`);
 
 		await new Promise((res) => {
